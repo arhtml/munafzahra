@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - I’m looking to collaborate on NASA 💞️ if possible
 - 😄 Pronouns: i'm still 16 y.o lahh
-- ⚡ Fun fact: start from June, 2023 :))
+- ⚡ Fun fact: start from June, 2023 :)
 
 <!---
 munafzahra/munafzahra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
