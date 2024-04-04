@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Coding
 - I’m looking to collaborate on NASA💞️ if possible
-- 😄 Pronouns: coding and books is my comfort zone <3
+- 😄 Pronouns: i'd like to explore more in this whole world <3
 - ⚡ Fun fact: start in the age 14 y.o (2021)
 
 <!---
