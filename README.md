@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @munafzahra, you can call me Zahra
+- 👋 Olla, I’m @munafzahra, you can call me zahra
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Coding
 - I’m looking to collaborate on NASA💞️ if possible
