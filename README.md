@@ -1,8 +1,8 @@
-- 👋 Olla, I’m @munafzahra, you can call me zahra
+- 👋 Olla, I’m @munafzahra, you can call me Zahra
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Coding
 - I’m looking to collaborate on NASA💞️ if possible
-- 😄 Pronouns: coding and books is my comfort zone <3
+- 😄 Pronouns: coding and books is my comfort zone ₍ᐢ.ˬ.ᐢ₎
 - ⚡ Fun fact: start in the age 14 y.o (2021)
 
 <!---
