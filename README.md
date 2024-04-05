@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning Coding
 - 😲 I’m looking to collaborate on NASA💞️ if possible
-- 😶‍🌫️ Coding and books is my comfort zone ₍ᐢ.ˬ.ᐢ₎
+- 🧚‍♀️ Coding and books is my comfort zone ₍ᐢ.ˬ.ᐢ₎
 - 🤺 Start in the age 14 y.o, when i was 2nd grade of middle school⚡
 
 <!---
