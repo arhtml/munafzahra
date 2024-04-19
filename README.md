@@ -1,4 +1,4 @@
-- 👋 Hola fellas, you can call me Zahra
+- 👋 Hola fellas, you can call me Zahra ᵔᴗᵔ
 - 👀 I’m interested in Front-End Web Developer
 - 🌱 I’m currently learning Coding
 - 😲 I’m looking to collaborate on NASA if possible
