@@ -1,7 +1,7 @@
 - 👋 Hola fellas, you can call me Zahra ᵔᴗᵔ
 - 👀 I’m interested in Front-End Web Developer
 - 🌱 I’m currently learning Coding
-- 😲 I’m looking to collaborate on NASA if possible
+- 😲 I’m looking to collaborate at NASA if possible
 - 🧚‍♀️ Devices and books is my comfort zone ₍ᐢ.ˬ.ᐢ₎
 - 🤺 Start in the age 14 y.o (2021)
 
