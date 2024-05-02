@@ -1,4 +1,4 @@
-- 👋 Hola fellas, my name's Zahra Munaf ᵔᴗᵔ
+- 👋 Olla, my name's Zahra Munaf ᵔᴗᵔ
 - 👀 I’m interested in Front-End Web Developer
 - 🌱 I’m currently learning Coding
 - 😲 I’m looking to collaborate at NASA if possible
