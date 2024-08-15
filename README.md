@@ -2,8 +2,8 @@
 - 👀 I’m a Junior Front End Developer & UI/UX Designer
 - 🌱 I’m currently learning Coding & Figma
 - 😲 I’m looking to collaborate at NASA if possible
-- 🧚‍♀️ Devices and books is my comfort zone btw₍ᐢ.ˬ.ᐢ₎
 - 🤺 Start in the age 14 y.o (2021)
+- 🧚‍♀️ let's be moots XD
 
 <!---
 munafzahra/munafzahra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
