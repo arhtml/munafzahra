@@ -1,5 +1,5 @@
 - 👋 Olla, my name's Zahra Munaf ᵔᴗᵔ
-- 👀 I’m a Junior Front End Developer & UI/UX Designer
+- 👀 I’m a Junior Fullstack Developer & UI/UX Designer
 - 🌱 I’m currently learning Coding & Figma
 - 😲 I’m looking to collaborate at NASA if possible
 - 🤺 Start in the age 14 y.o (2021)
