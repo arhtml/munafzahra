@@ -1,5 +1,5 @@
 - 👋 Olla, my name's Zahra Munaf ᵔᴗᵔ
-- 👀 I’m a Junior Fullstack Developer & UI/UX Designer
+- 👀 I’m a Jr. Fullstack Developer & UI/UX Designer
 - 🌱 I’m currently learning autodidactly
 - 😲 I’m looking to collaborate at NASA if possible
 - 🤺 Started in the age 14 y.o (2021)
