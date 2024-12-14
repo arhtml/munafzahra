@@ -1,5 +1,5 @@
 - 👋 Olla, my name's Zahra ᵔᴗᵔ
-- 👀 A Jr. Fullstack Developer & UI/UX Designer
+- 👀 A Jr. Fullstack Developer from Sumatra
 - 🌱 Science Student who currently learning Coding autodidactly
 - 😲 I’m looking to collaborate at NASA if possible
 - 🤺 Started in the age 13 y.o (2020)
