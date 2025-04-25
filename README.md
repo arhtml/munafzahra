@@ -1,7 +1,7 @@
 - 👋 Olla, my name's Zahra ᵔᴗᵔ
 - 👀 A Junior Fullstack Developer and Robotic Technician
 - 🌱 Even tho, I'm also a Public Speaker and Scientific Writer
-- 😲 Looking to collaborate at NASA if possible
+- 😲 Looking for collaborate on NASA if possible
 - 🤺 Started in the age 13 y.o (2020)
 
 <!---
